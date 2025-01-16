@@ -7,4 +7,4 @@ data = {
 }
 # Guardar el DataFrame en un archivo Excel
 df = pd.DataFrame(data)
-df.to_excel("furniture_units.xlsx", index=False)
+df.to_excel("forniture_units.xlsx", index=False)
